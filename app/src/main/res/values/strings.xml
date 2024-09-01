@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Validation App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigate">Navigate</string>
+    <string name="welcome">Welcome 😊😊</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="create_new_n_account">Create New \n Account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_here">Login here</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="log_in">Log In</string>
+    <string name="log">Log In</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account, Register</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="your_password">Your password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="enter_a_word">Enter a Word</string>
+    <string name="say_some_thing">Say Some Thing</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="a_sample_area_about_app">A sample Area about App</string>
+    <string name="l_o">Login</string>
+    <string name="s_u">SignUp</string>
+</resources>
