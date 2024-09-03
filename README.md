@@ -11,8 +11,9 @@ Kotlin Validation App is a Login/Logout application that securely saves user cre
 ### Screenshots
 Below are some screenshots showcasing the app's UI:
 
-![Welcome Screen](images/WelcomeScreen.jpg)
-![Login Screen](images/LoginScreen.jpg)
+![Welcome Screen](app/ScreenShots/Welcome.jpg)
+![Login Screen](app/ScreenShots/LogIn.jpg)
+![Register Screen](app/ScreenShots/Register.jpg)
 
 
 ### Installation
